@@ -1,28 +1,39 @@
-.text-sky {
-  color: #0cf;
+.bold {
+  font-weight: bold;
 }
 
-.App {
-  text-align: center;
+.text-white {
+  color: #FFF;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 150px;
+.text-black {
+  color: #000;
 }
 
-.App-header {
-  background-color: #333;
-  height: 300px;
-  padding: 30px;
-  color: white;
+.text-gray {
+  color: #777;
 }
 
-.App-intro {
-  font-size: large;
+.text-red {
+  color: #F00;
 }
 
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+.bg-white {
+  background-color: #FFF;
+}
+
+.bg-yellow {
+  background-color: #ffc444;
+}
+
+.bg-pink {
+  background-color: #ffcccc;
+}
+
+.error {
+  color: #F00;
+}
+
+a,a:active,a:hover,a:visited,a:link {
+	text-decoration: none;
 }
