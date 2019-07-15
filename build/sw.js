@@ -1,4 +1,4 @@
-self.paw__env={"PAW_CACHE":"true","PAW_VERBOSE":"false","PAW_ENV":"production","PAW_CONFIG_PATH":"/Users/top_weerapat/Desktop/Project/React/reactpwa-ant/prod.pawconfig.json","PAW_HOT":"false"};importScripts("/examples/ant-design/precache-manifest.2ec38a96d6988326d3e6b42a8824e419.js", "https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
+self.paw__env={"PAW_CACHE":"true","PAW_VERBOSE":"false","PAW_ENV":"production","PAW_CONFIG_PATH":"/Users/top_weerapat/Desktop/Project/React/reactpwa-ant/prod.pawconfig.json","PAW_HOT":"false"};importScripts("/examples/ant-design/precache-manifest.def803bd19032a447e1a035bbc849290.js", "https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 // eslint-disable-next-line
 const serviceWorker = self;
@@ -69,4 +69,4 @@ serviceWorker.workbox.routing.setDefaultHandler(({ event }) => {
 // eslint-disable-next-line
 serviceWorker.workbox.precaching.precacheAndRoute(serviceWorker.__precacheManifest);
 
-;self.paw__offline_assets = ["/examples/ant-design/css/bc2fd45f508159bc4e9d.css","/examples/ant-design/js/bc2fd45f508159bc4e9d.js","/examples/ant-design/css/a0fc5034d744c073bd2c.css","/examples/ant-design/js/a0fc5034d744c073bd2c.js"];self.paw__injected_variables = {"workboxDebug":true,"port":"9003","host":"0.0.0.0","appRootUrl":"/examples/ant-design","serviceWorker":true,"asyncCSS":false,"serverSideRender":true,"singlePageApplication":false,"cdnUrl":"","polyfill":"internal","clientRootElementId":"app","hstsEnabled":true,"hstsmaxAge":31536000,"hstsIncludeSubDomains":true,"hstsPreload":false,"resourcesBaseUrl":"/examples/ant-design/","react":"internal"};
+;self.paw__offline_assets = ["/examples/ant-design/css/85576bf6e8b45de24023.css","/examples/ant-design/js/85576bf6e8b45de24023.js","/examples/ant-design/css/a0fc5034d744c073bd2c.css","/examples/ant-design/js/a0fc5034d744c073bd2c.js"];self.paw__injected_variables = {"workboxDebug":true,"port":"80","host":"https://weerapat1993.github.io","appRootUrl":"/examples/ant-design","serviceWorker":true,"asyncCSS":false,"serverSideRender":true,"singlePageApplication":false,"cdnUrl":"","polyfill":"internal","clientRootElementId":"app","hstsEnabled":true,"hstsmaxAge":31536000,"hstsIncludeSubDomains":true,"hstsPreload":false,"resourcesBaseUrl":"/examples/ant-design/","react":"internal"};

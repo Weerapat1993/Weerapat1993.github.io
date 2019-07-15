@@ -3,10 +3,10 @@ self.__precacheManifest = [
     "url": "/examples/ant-design/js/405837f03456a6ac0eec.js"
   },
   {
-    "url": "/examples/ant-design/css/bc2fd45f508159bc4e9d.css"
+    "url": "/examples/ant-design/css/85576bf6e8b45de24023.css"
   },
   {
-    "url": "/examples/ant-design/js/bc2fd45f508159bc4e9d.js"
+    "url": "/examples/ant-design/js/85576bf6e8b45de24023.js"
   },
   {
     "url": "/examples/ant-design/css/a0fc5034d744c073bd2c.css"
